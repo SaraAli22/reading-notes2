@@ -19,7 +19,7 @@ In a growth mindset, people believe that their most basic abilities can be devel
 
 ![Image](https://i.pinimg.com/236x/b6/01/ac/b601ac3e34a2df83e4c290baf0488c91.jpg)
 
-If you are Intrested you Can watch @Carol Dweck's Journey with Mindest Growth:EMOJICODE:+1:
+If you are Intrested you Can watch Carol Dweck's Journey with Mindest Growth:EMOJICODE:+1:
 
 (Youtube Video) [https://www.youtube.com/watch?v=M1CHPnZfFmU&vl=en]
 
