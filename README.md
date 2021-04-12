@@ -6,7 +6,7 @@
 **Or you Can say '*love of learning*'.these days is a popular topic ,so what is growth mindest ?
 In a growth mindset, people believe that their most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point. This view creates a love of learning and a resilience that is essential for great accomplishment.You Can use the following strategies to grow your mind:**
 
-- \Challenge yourself
+- Challenge yourself
 - Face the roadblock 
 - Effort , try more and more `No Pain No Gain`
 - Criticism from yourself and others `That’s the dark side of growth`
@@ -20,5 +20,6 @@ In a growth mindset, people believe that their most basic abilities can be devel
 ![Image](https://i.pinimg.com/236x/b6/01/ac/b601ac3e34a2df83e4c290baf0488c91.jpg)
 
 If you are Intrested you Can watch @Carol Dweck's Journey with Mindest Growth :EMOJICODE:+1:
+
 (Youtube Video) [https://www.youtube.com/watch?v=M1CHPnZfFmU&vl=en]
 
