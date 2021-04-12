@@ -17,5 +17,7 @@ In a growth mindset, people believe that their most basic abilities can be devel
 2. I am a Competitor Person So, always get jelous of my Coworks ,But now Sucess of others inspires me to do better.
 3. I learned the quality is better than quantity *'Study smart not hard'* 
 
-*GROWTH MINDEST Video *[https://www.youtube.com/watch?v=M1CHPnZfFmU&vl=en]
+![Image](https://i.pinimg.com/236x/b6/01/ac/b601ac3e34a2df83e4c290baf0488c91.jpg)
+
+*GROWTH MINDEST Video* [https://www.youtube.com/watch?v=M1CHPnZfFmU&vl=en]
 
