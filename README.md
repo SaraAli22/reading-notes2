@@ -2,10 +2,11 @@
 *Sara* *Ali*
 
 **Growth Mindest **
-Or you Can say '*love of learning*'.these days is a popular topic ,so what is growth mindest ?
-In a growth mindset, people believe that their most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point. This view creates a love of learning and a resilience that is essential for great accomplishment.You Can use the following strategies to grow your mind:
 
-- Challenge yourself
+**Or you Can say '*love of learning*'.these days is a popular topic ,so what is growth mindest ?
+In a growth mindset, people believe that their most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point. This view creates a love of learning and a resilience that is essential for great accomplishment.You Can use the following strategies to grow your mind:**
+
+- \Challenge yourself
 - Face the roadblock 
 - Effort , try more and more `No Pain No Gain`
 - Criticism from yourself and others `That’s the dark side of growth`
@@ -16,5 +17,5 @@ In a growth mindset, people believe that their most basic abilities can be devel
 2. I am a Competitor Person So, always get jelous of my Coworks ,But now Sucess of others inspires me to do better.
 3. I learned the quality is better than quantity *'Study smart not hard'* 
 
-[https://www.youtube.com/watch?v=M1CHPnZfFmU&vl=en]
-![https://i.pinimg.com/236x/b2/0e/5a/b20e5aafaaaf5f146606ded805fdf699.jpg]
+*GROWTH MINDEST Video *[https://www.youtube.com/watch?v=M1CHPnZfFmU&vl=en]
+
