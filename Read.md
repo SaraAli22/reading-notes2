@@ -13,6 +13,7 @@ My Journey as a growth mindset Pesron :
 I struglle walking up early at morning, but I keep remeber myself is going back to sleep really what I want to do? Am I giving up too easily?
 I am a Competitor Person So, always get jelous of my Coworks ,But now Sucess of others inspires me to do better.
 I learned the quality is better than quantity ‘Study smart not hard’
+![img](https://i.pinimg.com/236x/b6/01/ac/b601ac3e34a2df83e4c290baf0488c91.jpg)
 
 If you are Interested you Can watch @Carol Dweck’s Journey with Mindset Growth :EMOJICODE:+1:
 
