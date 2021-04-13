@@ -2,7 +2,7 @@
 
 Civil Engineer,photogragher and designer
 
-My github acount (link)[https://github.com/SaraAli22/]
+*My github acount* (link)[https://github.com/SaraAli22/]
 
 |page| URL|
 |---| ---|
