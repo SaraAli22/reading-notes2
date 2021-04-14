@@ -12,8 +12,3 @@ Civil Engineer,photogragher and designer
 
 
 ![img](https://i.pinimg.com/564x/d4/fa/6f/d4fa6f725f3896e91fac949c660eba65.jpg)
-
-
-
-
-

@@ -23,7 +23,7 @@ Git can be installed in three ways:
 You can download Git by visiting this link and following the posted directions:
 (Link)[http://git-scm.com/download/mac]
 
-   **Windows**
+  **Windows**
 You can download Git by visiting this link and following the posted directions:
 (Link)[http://git-scm.com/download/win]
 
