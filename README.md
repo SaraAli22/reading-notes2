@@ -2,11 +2,6 @@
 
 Civil Engineer,photogragher and designer.
 
-<<<<<<< HEAD
-=======
-*My github acount*
- (link)[https://github.com/SaraAli22/]
->>>>>>> 418188e49b5dc6e66858a16a485648520a83013c
 
 |Page| URL|
 |---| ---|
@@ -15,13 +10,10 @@ Civil Engineer,photogragher and designer.
 |Read 2| [Read02](Read02.md)|
 |Read 3| [Read03](Read03.md)|
 |Read 4| [Read04](Read04.md)|
-<<<<<<< HEAD
 |Read 4b| [Computer](Computer.md)|
 |Read 5| [Read05](Read05.md)|
+|Computer|[computer](Computer.md)|
 
-=======
-|Computer| [computer](Computer.md)|
->>>>>>> 418188e49b5dc6e66858a16a485648520a83013c
 
 
 
