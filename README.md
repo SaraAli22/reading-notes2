@@ -12,7 +12,11 @@ Civil Engineer,photogragher and designer.
 |Read 4| [Read04](Read04.md)|
 |Read 4b| [Computer](Computer.md)|
 |Read 5| [Read05](Read05.md)|
+<<<<<<< HEAD
 |Read 6| [Read06](Read06.md)|
+=======
+|Computer|[computer](Computer.md)|
+>>>>>>> f46677447c8d66a959948f8381e70c21767995c0
 
 
 
