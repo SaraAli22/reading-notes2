@@ -40,3 +40,18 @@ property sets the choice of font, and the value arial specifies Arial as the pre
 
 5. CSS rules usually appear in a separate document, 
 although they may appear within an HTML page.
+
+# Understanding Color
+Every color on a computer screen is created by mixing amounts of red, green, and blue. 
+To find the color you want, you can use a color picker.
+Understanding Color Computer monitors are made 
+up of thousands of tiny squares called pixels (if you look very closely at your monitor you 
+should be able to see them).When the screen is not turned 
+on, it's black because it's not emitting any light. When it's on, each pixel can be a different 
+color, creating a picture.
+
+The color of every pixel on the screen is expressed in terms of a mix of red, green, and blue — 
+just like on a television screen.Color picking tools are available in image editing programs like Photoshop and GIMP. 
+ ![image](https://i.pinimg.com/236x/af/33/de/af33de4466d05796898803103e0914d9.jpg)
+
+ ![image](https://i.pinimg.com/564x/fb/fa/2b/fbfa2bc2dfdb277bff96ac6c54045161.jpg)
