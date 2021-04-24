@@ -15,6 +15,7 @@ Civil Engineer,photogragher and designer.
 |Read 6| [Read06](Read06.md)|
 |Read 7| [Read07](Read07.md)|
 |Read 9| [Read09](Read09.md)|
+<<<<<<< HEAD
 
 201 Reading Notes :
 
@@ -22,6 +23,8 @@ Civil Engineer,photogragher and designer.
 |---| ---|
 |Read11| [Read11](Read11.md)|
 
+=======
+>>>>>>> ed38aee3f131be15f93c4ab53211f0f9e5a9206f
 
 ![img](https://i.pinimg.com/564x/d4/fa/6f/d4fa6f725f3896e91fac949c660eba65.jpg)
 
